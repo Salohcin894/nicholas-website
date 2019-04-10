@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: ''
+title: Welcome
 date: ''
 page_sections:
 - template: hero-banner-w-image
