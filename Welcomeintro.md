@@ -11,9 +11,9 @@ page_sections:
     button_text: Hey buddy, click me
     url: https://youtu.be/BHLBaOASC74
   navigation:
-  - link_text: AAA
-  - link_text: AA
   - link_text: A
+  - link_text: AA
+  - link_text: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
