@@ -15,6 +15,7 @@ page_sections:
   logo: "/uploads/607706d42ac0f2f7a7ba3fa15bc38ebd.png"
 - template: hero-banner-w-image
   block: hero-2
+  background_image: "/uploads/frame000000.png"
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
