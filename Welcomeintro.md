@@ -1,0 +1,16 @@
+---
+layout: blocks
+title: ''
+date: ''
+page_sections:
+- template: hero-banner-w-image
+  block: hero-2
+- template: navigation-header-w-button
+  block: header-2
+- template: 1-column-text
+  block: one-column-1
+  headline: Hello.
+  content: Welcome to my S I C K webpage that i definitely did not google for hours
+    trying to figure out how to build.
+
+---
