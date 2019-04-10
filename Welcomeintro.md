@@ -16,6 +16,12 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/frame000000.png"
+  headline: Coooooooool
+  content: Hey, its a fractal.
+  cta:
+    enabled: true
+    button_text: wooOOOAHHHHHHHHHHHHH
+    url: https://youtu.be/Egi5Np5ZX9Y
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
