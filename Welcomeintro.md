@@ -3,8 +3,6 @@ layout: blocks
 title: Welcome
 date: ''
 page_sections:
-- template: hero-banner-w-image
-  block: hero-2
 - template: navigation-header-w-button
   block: header-2
   cta:
@@ -14,6 +12,9 @@ page_sections:
   - link_text: A
   - link_text: AA
   - link_text: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  logo: "/uploads/607706d42ac0f2f7a7ba3fa15bc38ebd.png"
+- template: hero-banner-w-image
+  block: hero-2
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
