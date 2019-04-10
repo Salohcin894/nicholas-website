@@ -10,6 +10,10 @@ page_sections:
   cta:
     button_text: Hey buddy, click me
     url: https://youtu.be/BHLBaOASC74
+  navigation:
+  - link_text: AAA
+  - link_text: AA
+  - link_text: A
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
