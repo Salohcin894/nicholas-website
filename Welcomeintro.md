@@ -7,6 +7,9 @@ page_sections:
   block: hero-2
 - template: navigation-header-w-button
   block: header-2
+  cta:
+    button_text: Hey buddy, click me
+    url: https://youtu.be/BHLBaOASC74
 - template: 1-column-text
   block: one-column-1
   headline: Hello.
